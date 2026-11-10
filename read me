@@ -1,0 +1,20 @@
+# Introducción a Python: Tipos de datos, listas y matrices
+
+## Descripción
+Este notebook presenta los conceptos básicos de programación en Python, incluyendo tipos de datos, creación y manipulación de listas, ciclos `for` y operaciones con arreglos y matrices utilizando la librería NumPy.
+
+## Contenido
+- **Tipos de datos:** Uso de números enteros (`int`), decimales (`float`) y cadenas de texto (`str`).
+- **Listas:** Creación de listas, acceso a elementos mediante índices y uso de `len()` para conocer su tamaño.
+- **Operaciones con listas:** Concatenación, suma elemento por elemento y multiplicación por escalares.
+- **Ciclos `for`:** Uso de `range()` y comprensión de listas para automatizar operaciones.
+- **NumPy:** Conversión de listas a arreglos (`np.array`) y operaciones matemáticas entre sus elementos.
+- **Matrices:** Creación y reorganización de arreglos mediante `reshape()` para obtener matrices de diferentes dimensiones.
+
+## Objetivo
+Comprender las estructuras de datos fundamentales de Python y aprender a realizar operaciones básicas con listas, arreglos y matrices, como introducción al análisis de datos y a la programación científica.
+
+## Herramientas utilizadas
+- Python
+- Google Colab
+- NumPy
